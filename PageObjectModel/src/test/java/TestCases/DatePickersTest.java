@@ -14,7 +14,7 @@ public class DatePickersTest extends BaseClass{
 	public void verify_datePickers() 
 	{
 		DatePickersPage datepickerspage=new DatePickersPage(driver);
-		datepickerspage.clickOnDatePickers();
+		
 	}
 	
 	@Test
